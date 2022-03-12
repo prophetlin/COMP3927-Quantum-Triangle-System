@@ -111,3 +111,6 @@ Assumptions
 * All starting and end points are represented by a tuple: (s, alpha) where s is in {0, 1, 2} which specifies the side of the triangle (in clockwise order) and 0 <= alpha <= 1 specifies how far along the side the point is (also in clockwise order).
 
 
+# DO NOT PLAGIARISE! UNIVERSITY OF SYDNEY TAKES PLAGIARISM SERIOUSLY!!
+
+- In the case of assignments being reuse, please do not copy! you will learn nothing from copying!
